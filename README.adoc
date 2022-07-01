@@ -7,7 +7,7 @@ In this example we are going to explore two different ways of use Elasticsearch 
     * With ElasticsearchRepository
     * With ElasticsearchRestTemplate (RestOperations)
 
-If you want more information don't hesitate to take a look into: https://refactorizando.com/
+If you want more information don't hesitate to take a look into: https://refactorizando.com/introduccion-ejemplo-elasticsearch-spring-boot
 
 == How does it work?
 This is a Spring Boot application with Elasicsearch connection so before run it you need a
